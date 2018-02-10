@@ -7,4 +7,4 @@ This project aims at providing some functions to evaluate the performance of pre
 * Matlab software
 
 ## Content
-PIT.m a function to compute the Probability Interval Transform of the predictive ensemble
+* _PIT.m_ a function to compute the Probability Interval Transform of the predictive ensemble
